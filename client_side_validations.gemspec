@@ -4,7 +4,7 @@ require "Slim-ClientSideValidation/version"
 
 Gem::Specification.new do |s|
   s.name        = "Slim-ClientSideValidation"
-  s.version     = ClientSideValidations::VERSION
+  s.version     = "3.2"
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Brian Cardarella"]
   s.email       = ["bcardarella@gmail.com"]
